@@ -9,6 +9,7 @@ header h1 {
 
 body {
     text-align: center;
+    background-image: linear-gradient(to bottom, white, rgb(157, 235, 255));
 }
 
 header h1 {
@@ -24,6 +25,16 @@ main {
     background-color: white;
     width: 750px;
     margin: auto;
-    padding: 20px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.349); 
+    padding: 25px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.349);
+    text-align: justify;
+}
+
+main h2 {
+    text-align: center;
+}
+
+footer {
+    font-size: 10pt;
+    color: white;
 }
