@@ -9,12 +9,12 @@ header h1 {
 
 body {
     text-align: center;
-    background-image: linear-gradient(to bottom, white, rgb(157, 235, 255));
+    background-color: black;
 }
 
 header h1 {
     font-size: 30pt;
-    color: rgb(105, 105, 105);
+    color: rgb(255, 255, 255);
 }
 
 article h2 {
@@ -23,11 +23,13 @@ article h2 {
 
 main {
     background-color: white;
+    color: rgb(105, 105, 105);
     width: 750px;
     margin: auto;
     padding: 25px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.349);
     text-align: justify;
+    border-radius: 20px;
 }
 
 main h2 {
@@ -35,6 +37,6 @@ main h2 {
 }
 
 footer {
-    font-size: 10pt;
+    font-size: 9pt;
     color: white;
 }
