@@ -36,6 +36,10 @@ main h2 {
     text-align: center;
 }
 
+img#principal {
+    width: 750px
+}
+
 img {
     width: 240px;
 }
