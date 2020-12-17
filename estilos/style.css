@@ -36,15 +36,11 @@ main h2 {
     text-align: center;
 }
 
-img#principal {
-    width: 750px
+footer {
+    font-size: 9pt;
+    color: white;
 }
 
 img {
     width: 245px;
-}
-
-footer {
-    font-size: 9pt;
-    color: white;
 }
