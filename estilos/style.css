@@ -41,6 +41,12 @@ footer {
     color: white;
 }
 
-img {
+div.box {
+	width: 245px;
+    display: inline-block;
+    text-align: center;
+}
+
+img.im {
     width: 245px;
 }
